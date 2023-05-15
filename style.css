@@ -106,12 +106,12 @@ table {
 	position: sticky;
 	top: 0;
 	background-color:#e53b44;
-	z-index: 1;
+	z-index: 9999;
   }
   
   .scrollable-table th:first-child,
   .scrollable-table td:first-child {
-	text-align: left;
+	text-align: center;
   }
   
   .scrollable-table th:not(:first-child),
@@ -172,6 +172,7 @@ table {
 
   .child:hover {
     background-color: #e53b44;
+	  transform: scale(1.1);
   }
 
   a {

@@ -212,3 +212,58 @@ table {
 	background: url(right-arrow.png) no-repeat center center;
   }
   /*******/
+  /** Modal **/
+
+ /* Style for modal background */
+ .modal-background {
+	position: fixed;
+	z-index: 9999;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.6);
+	display: none;
+  }
+  
+  /* Style for modal box */
+  .modal-box {
+	width: 56.25vw; /* 16:9 aspect ratio */
+	height: 31.64vw; /* 16:9 aspect ratio */
+	max-width: 60%;
+	max-height: 60%;
+	position: fixed;
+	z-index: 10000;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: #e53b44;
+	padding: 0px;
+	display: none;
+	overflow: hidden;
+	box-sizing: border-box;
+	border: 5px solid #e53b44;
+  }
+  
+  /* Style for modal content */
+  .modal-content {
+	overflow: auto;
+	height: calc(100% - 30px);
+	margin-bottom: 15px;
+  }
+  
+  /* Style for close button */
+  .modal-close {
+	position: absolute;
+	top: 5px;
+	right: 10px;
+	cursor: pointer;
+	font-size: 0px;
+  }
+  
+  /* Hide scrollbar */
+  .modal-content::-webkit-scrollbar {
+	width: 0px;
+	background: transparent;
+  }
+  

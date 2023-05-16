@@ -33,5 +33,20 @@
       "name": "Registry Dumper",
       "description": "A tool used to extract and dump the contents of the Windows Registry.",
       "url": "https://github.com/kacos2000/RegistryDumper"
+    },
+    {
+      "name": "Creddump",
+      "description": "Dump windows credentials",
+      "url": "https://github.com/moyix/creddump"
+    },
+    {
+      "name": "Extundelete",
+      "description": "Used for recovering lost data from mountable images",
+      "url": "http://extundelete.sourceforge.net/"
+    },
+    {
+      "name": "Shellbags",
+      "description": "Investigate NT_USER.dat files",
+      "url": "https://github.com/williballenthin/shellbags"
     }
   ]

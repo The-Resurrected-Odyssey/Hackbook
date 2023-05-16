@@ -78,5 +78,10 @@
     "name": "Dalfox",
     "description": "An XSS scanning and parameter analysis tool.",
     "url": "https://github.com/hahwul/dalfox"
+  },
+  {
+    "name": "Owasp Zap",
+    "description": "Intercepting proxy to replay, debug, and fuzz HTTP requests and responses",
+    "url": "https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project"
   }
 ]

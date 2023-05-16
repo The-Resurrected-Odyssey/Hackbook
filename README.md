@@ -1,4 +1,4 @@
-<img src="img/hb_logo.png">
+<img src="img/hb_logo.png" height="200" width="200">
 
 ### Hackbook
 

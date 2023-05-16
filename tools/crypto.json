@@ -68,5 +68,10 @@
       "name": "XORTool",
       "description": "A tool for XOR cipher analysis and decryption.",
       "url": "https://github.com/hellman/xortool"
+    },
+    {
+      "name": "John The Jumbo",
+      "description": "Community enhanced version of John the Ripper",
+      "url": "https://www.openwall.com/john/"
     }
   ]

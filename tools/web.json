@@ -50,11 +50,6 @@
     "url": "https://github.com/xmendez/wfuzz"
   },
   {
-    "name": "Sublist3r",
-    "description": "A Python tool designed to enumerate subdomains of websites using OSINT techniques.",
-    "url": "https://github.com/aboul3la/Sublist3r"
-  },
-  {
     "name": "Sublister",
     "description": "A Python-based tool to find subdomains of a given domain.",
     "url": "https://github.com/aboul3la/Sublist3r"

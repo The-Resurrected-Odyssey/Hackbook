@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Aperisolve",
+      "description": "Aperisolve is a tool for identifying and analyzing steganography in digital images.",
+      "url": "https://github.com/RobinDavid/AperiSolve"
+    },
+    {
+      "name": "Exif",
+      "description": "Exif is a standard for storing metadata in image files. This metadata can include information such as the date and time the image was taken, the camera used to take the image, and the settings used to take the image.",
+      "url": "https://en.wikipedia.org/wiki/Exif"
+    },
+    {
+      "name": "Exiftool",
+      "description": "Exiftool is a command-line tool for reading, writing, and editing metadata in image, audio, and video files.",
+      "url": "https://exiftool.org/"
+    },
+    {
+      "name": "ImageMagick",
+      "description": "ImageMagick is a free and open-source software suite for displaying, converting, and editing raster and vector images.",
+      "url": "https://imagemagick.org/"
+    },
+    {
+      "name": "Outguess",
+      "description": "Outguess is a steganography tool used to embed and recover hidden information in digital media.",
+      "url": "https://www.outguess.org/"
+    },
+    {
+      "name": "Pngtools",
+      "description": "Pngtools is a collection of command-line utilities for working with PNG (Portable Network Graphics) images.",
+      "url": "http://www.stillhq.com/pngtools/"
+    },
+    {
+      "name": "SmartDeblur",
+      "description": "SmartDeblur is a tool for restoring and enhancing blurry or defocused images.",
+      "url": "https://smartdeblur.net/"
+    },
+    {
+      "name": "StegCracker",
+      "description": "StegCracker is a tool used for brute-forcing steganography files, such as hidden messages in images.",
+      "url": "https://github.com/Paradoxis/StegCracker"
+    },
+    {
+      "name": "Steghide",
+      "description": "Steghide is a command-line tool for embedding and extracting hidden data in images and audio files.",
+      "url": "https://github.com/StefanoDeVuono/steghide"
+    },
+    {
+      "name": "Stegonline",
+      "description": "Stegonline is an online steganography tool that allows you to hide messages within images.",
+      "url": "https://stegonline.georgeom.net/"
+    },
+    {
+      "name": "Stegsolve",
+      "description": "Stegsolve is a tool for analyzing and visualizing steganographic images.",
+      "url": "https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve"
+    },
+    {
+      "name": "Zsteg",
+      "description": "Zsteg is a tool for detecting hidden data in PNG and BMP images using various steganography techniques.",
+      "url": "https://github.com/zed-0xff/zsteg"
+    }
+  ]

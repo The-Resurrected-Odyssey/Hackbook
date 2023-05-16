@@ -1,0 +1,37 @@
+[
+    {
+      "name": "WinDbg",
+      "description": "A powerful Windows debugger developed by Microsoft. It can be used to troubleshoot and debug various issues in Windows-based applications and drivers.",
+      "url": "https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools"
+    },
+    {
+      "name": "Autopsy",
+      "description": "An open-source digital forensics platform that can be used to conduct investigations on Windows, Mac, and Linux systems.",
+      "url": "https://www.sleuthkit.org/autopsy/"
+    },
+    {
+      "name": "Volatility 2",
+      "description": "An advanced memory forensics framework that can be used to analyze memory dumps of Windows, Linux, and Mac systems.",
+      "url": "https://github.com/volatilityfoundation/volatility"
+    },
+    {
+      "name": "Volatility 3",
+      "description": "The next generation of the Volatility memory forensics framework. It provides improved performance and supports the analysis of new operating systems.",
+      "url": "https://github.com/volatilityfoundation/volatility3"
+    },
+    {
+      "name": "Magnet AXIOM",
+      "description": "A digital forensics tool that can be used to recover digital evidence from various sources, including smartphones, cloud services, and computers.",
+      "url": "https://www.magnetforensics.com/products/magnet-axiom/"
+    },
+    {
+      "name": "FTK Imager",
+      "description": "A powerful imaging tool that can be used to create forensic images of hard drives and other storage devices.",
+      "url": "https://accessdata.com/product-download/ftk-imager-version-4-6-0"
+    },
+    {
+      "name": "Registry Dumper",
+      "description": "A tool used to extract and dump the contents of the Windows Registry.",
+      "url": "https://github.com/kacos2000/RegistryDumper"
+    }
+  ]

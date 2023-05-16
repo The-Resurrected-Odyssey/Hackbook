@@ -1,0 +1,117 @@
+[
+    {
+      "name": "Androguard",
+      "description": "A powerful tool for reverse engineering Android apps.",
+      "url": "https://androguard.readthedocs.io/en/latest/"
+    },
+    {
+      "name": "Angr",
+      "description": "A binary analysis framework for symbolic execution, taint analysis, and more.",
+      "url": "https://angr.io/"
+    },
+    {
+      "name": "Apk2Gold",
+      "description": "A tool for decompiling APK files into Java source code.",
+      "url": "https://github.com/lxdvs/apk2gold"
+    },
+    {
+      "name": "ApktTool",
+      "description": "A tool for reverse engineering Android APK files.",
+      "url": "https://ibotpeaches.github.io/Apktool/"
+    },
+    {
+      "name": "Barf",
+      "description": "A binary analysis and reverse engineering framework.",
+      "url": "https://github.com/programa-stic/barf-project"
+    },
+    {
+      "name": "BinUtils",
+      "description": "A collection of binary utilities for Linux and other operating systems.",
+      "url": "https://www.gnu.org/software/binutils/"
+    },
+    {
+      "name": "Binwalk",
+      "description": "A tool for analyzing, reverse engineering, and extracting firmware images.",
+      "url": "https://github.com/ReFirmLabs/binwalk"
+    },
+    {
+      "name": "Boomerang",
+      "description": "An open source, reverse engineering framework for decompiling and disassembling binary code.",
+      "url": "https://boomerang.sourceforge.io/"
+    },
+    {
+      "name": "CWE Checker",
+      "description": "A tool for detecting vulnerabilities in C and C++ code using the Common Weakness Enumeration.",
+      "url": "https://github.com/d0c-s4vage/cwe_checker"
+    },
+    {
+      "name": "Frida",
+      "description": "A dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.",
+      "url": "https://frida.re/"
+    },
+    {
+      "name": "GDB",
+      "description": "A powerful command-line debugger for C, C++, and other languages.",
+      "url": "https://www.gnu.org/software/gdb/"
+    },
+    {
+      "name": "Jadx",
+      "description": "A decompiler for Android apps that can be used to recover Java source code from APK files.",
+      "url": "https://github.com/skylot/jadx"
+    },
+    {
+      "name": "Triton",
+      "description": "A dynamic binary analysis (DBA) framework that can be used to analyze and instrument binaries on-the-fly.",
+      "url": "https://triton.quarkslab.com/"
+    },
+    {
+      "name": "Ghidra",
+      "description": "A software reverse engineering (SRE) suite of tools developed by the NSA.",
+      "url": "https://ghidra-sre.org/"
+    },
+    {
+      "name": "Radare2",
+      "description": "A portable reverse engineering framework that can disassemble, decompile, debug, and patch binaries.",
+      "url": "https://rada.re/n/"
+    },
+    {
+      "name": "IDA Pro",
+      "description": "A popular and powerful interactive disassembler and debugger.",
+      "url": "https://www.hex-rays.com/products/ida/"
+    },
+    {
+      "name": "x86 Dbg",
+      "description": "A lightweight, open-source debugger for Windows that supports x86 architecture.",
+      "url": "https://github.com/fuzyll/x86dbg"
+    },
+    {
+      "name": "x64 Dbg",
+      "description": "A powerful, open-source debugger for Windows that supports x64 architecture.",
+      "url": "http://x64dbg.com/"
+    },
+    {
+      "name": "OllyDbg",
+      "description": "A popular debugger for Windows that allows you to analyze binary code and find vulnerabilities.",
+      "url": "http://www.ollydbg.de/"
+    },
+    {
+      "name": "Iaito",
+      "description": "A modern debugging tool for Windows that offers various features like dynamic analysis, code coverage, and more.",
+      "url": "https://iaito.dev/"
+    },
+    {
+      "name": "Binary Ninja",
+      "description": "A powerful and modern binary analysis platform that supports multiple architectures and has a user-friendly interface.",
+      "url": "https://binary.ninja/"
+    },
+    {
+      "name": "Cutter",
+      "description": "A free and open-source reverse engineering platform that is based on the Ghidra disassembler and has a modern user interface.",
+      "url": "https://cutter.re/"
+    },
+    {
+      "name": "Pwntools",
+      "description": "A CTF framework and exploit development library that allows you to write exploit code in Python.",
+      "url": "https://pwntools.com/"
+    }
+  ]

@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Hydra",
+      "description": "A parallelized login cracker which supports numerous protocols to attack.",
+      "url": "https://github.com/vanhauser-thc/thc-hydra"
+    },
+    {
+      "name": "Peass-ng",
+      "description": "Privilege escalation tools for Windows and Linux/Unix* and MacOS.",
+      "url": "https://github.com/AlexanderRichey/Peass-ng"
+    },
+    {
+      "name": "Fcrackzip",
+      "description": "A fast password cracker for ZIP archives.",
+      "url": "https://github.com/hyc/fcrackzip"
+    },
+    {
+      "name": "Hexedit",
+      "description": "A hexadecimal file viewer and editor.",
+      "url": "http://rigaux.org/hexedit.html"
+    },
+    {
+      "name": "Xxd",
+      "description": "A utility to create and modify hexadecimal dump files.",
+      "url": "https://linux.die.net/man/1/xxd"
+    },
+    {
+      "name": "Shodan.io",
+      "description": "A search engine for Internet-connected devices.",
+      "url": "https://www.shodan.io/"
+    }
+  ]

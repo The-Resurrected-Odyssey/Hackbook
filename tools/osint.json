@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Sherlock",
+      "description": "A tool to find social media accounts by username across various platforms.",
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "name": "Phoneinfoga",
+      "description": "A tool to gather information about phone numbers using public sources.",
+      "url": "https://github.com/PhoneInfoga/phoneinfoga"
+    },
+    {
+      "name": "Pimeyes",
+      "description": "A reverse image search engine that uses face recognition algorithms.",
+      "url": "https://pimeyes.com/"
+    },
+    {
+      "name": "Thatsthem",
+      "description": "A people search engine that allows you to find contact information for individuals.",
+      "url": "https://thatsthem.com/"
+    },
+    {
+      "name": "Google Dorks",
+      "description": "Search queries that use advanced operators to find specific information on search engines.",
+      "url": ""
+    }
+  ]

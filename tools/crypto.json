@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Dcode.fr",
+      "description": "A website that provides online tools for encoding, decoding, encryption and decryption.",
+      "url": "https://www.dcode.fr/"
+    },
+    {
+      "name": "CyberChef",
+      "description": "A web-based app for decoding, encoding, compressing, and decompressing data.",
+      "url": "https://gchq.github.io/CyberChef/"
+    },
+    {
+      "name": "MD5hashing.net",
+      "description": "A website that provides an online tool for generating the MD5 hash of a string.",
+      "url": "https://md5hashing.net/"
+    },
+    {
+      "name": "Rot13.com",
+      "description": "A website that provides an online tool for encoding and decoding ROT13.",
+      "url": "https://rot13.com/"
+    },
+    {
+      "name": "Feather Duster",
+      "description": "A tool for performing automated cryptanalysis on ciphertext, including finding vulnerabilities such as weak keys and initialization vectors.",
+      "url": "https://github.com/nccgroup/featherduster"
+    },
+    {
+      "name": "Hash Extender",
+      "description": "A tool for performing hash length extension attacks.",
+      "url": "https://github.com/iagox86/hash_extender"
+    },
+    {
+      "name": "Factordb.com",
+      "description": "A website that provides a database of prime factorizations.",
+      "url": "http://factordb.com/"
+    },
+    {
+      "name": "Padding Oracle Attacker",
+      "description": "A tool for performing padding oracle attacks.",
+      "url": "https://github.com/GDSSecurity/PadBuster"
+    },
+    {
+      "name": "PK Crack",
+      "description": "A tool for recovering private keys from weak RSA keys.",
+      "url": "https://github.com/keyunluo/pkcrack"
+    },
+    {
+      "name": "Quip Quip",
+      "description": "A tool for steganography, encoding and decoding messages within images.",
+      "url": "https://quipqiup.com/"
+    },
+    {
+      "name": "RSACTFTool",
+      "description": "A tool for recovering RSA private keys with various attacks.",
+      "url": "https://github.com/Ganapati/RsaCtfTool"
+    },
+    {
+      "name": "John the Ripper",
+      "description": "A tool for password cracking that supports many different hash types.",
+      "url": "https://www.openwall.com/john/"
+    },
+    {
+      "name": "Hashcat",
+      "description": "A tool for password cracking that supports many different hash types and can run on CPU or GPU.",
+      "url": "https://hashcat.net/hashcat/"
+    },
+    {
+      "name": "XORTool",
+      "description": "A tool for XOR cipher analysis and decryption.",
+      "url": "https://github.com/hellman/xortool"
+    }
+  ]

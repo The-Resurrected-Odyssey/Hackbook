@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Burpsuite",
+    "description": "A graphical tool to test web application security.",
+    "url": "https://portswigger.net/burp"
+  },
+  {
+    "name": "Commix",
+    "description": "An automated tool to test web application security.",
+    "url": "https://github.com/commixproject/commix"
+  },
+  {
+    "name": "Amass",
+    "description": "A network mapping and attack surface discovery tool.",
+    "url": "https://github.com/OWASP/Amass"
+  },
+  {
+    "name": "Hackbar",
+    "description": "A Firefox add-on for penetration testing.",
+    "url": "https://addons.mozilla.org/en-US/firefox/addon/hackbar-quantum/"
+  },
+  {
+    "name": "Fuff",
+    "description": "A web fuzzer tool that helps in discovering hidden files and directories.",
+    "url": "https://github.com/ffuf/ffuf"
+  },
+  {
+    "name": "Sqlmap",
+    "description": "An open-source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws.",
+    "url": "http://sqlmap.org/"
+  },
+  {
+    "name": "Dirbuster",
+    "description": "A multi-threaded Java application to brute force directories and files on web/application servers.",
+    "url": "https://sourceforge.net/projects/dirbuster/"
+  },
+  {
+    "name": "W3af",
+    "description": "A web application attack and audit framework.",
+    "url": "https://github.com/andresriancho/w3af"
+  },
+  {
+    "name": "XSSer",
+    "description": "An automated tool for detecting and exploiting XSS vulnerabilities.",
+    "url": "https://github.com/epsylon/xsser"
+  },
+  {
+    "name": "Wfuzz",
+    "description": "A web application brute-forcing tool that can find hidden resources like directories, files, and parameters.",
+    "url": "https://github.com/xmendez/wfuzz"
+  },
+  {
+    "name": "Sublist3r",
+    "description": "A Python tool designed to enumerate subdomains of websites using OSINT techniques.",
+    "url": "https://github.com/aboul3la/Sublist3r"
+  },
+  {
+    "name": "Sublister",
+    "description": "A Python-based tool to find subdomains of a given domain.",
+    "url": "https://github.com/aboul3la/Sublist3r"
+  },
+  {
+    "name": "XSStrike",
+    "description": "An advanced XSS detection and exploitation suite.",
+    "url": "https://github.com/s0md3v/XSStrike"
+  },
+  {
+    "name": "Dirb",
+    "description": "A web content scanner that looks for hidden directories and files on web servers.",
+    "url": "https://sourceforge.net/projects/dirb/"
+  },
+  {
+    "name": "Nuclei",
+    "description": "A fast and customizable vulnerability scanner that automates the process of detecting and exploiting vulnerabilities.",
+    "url": "https://github.com/projectdiscovery/nuclei"
+  },
+  {
+    "name": "Dalfox",
+    "description": "An XSS scanning and parameter analysis tool.",
+    "url": "https://github.com/hahwul/dalfox"
+  }
+]

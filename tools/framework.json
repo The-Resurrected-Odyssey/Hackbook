@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Metasploit",
+      "description": "A penetration testing framework that includes many tools and exploits.",
+      "url": "https://www.metasploit.com/"
+    },
+    {
+      "name": "OpenVAS",
+      "description": "A framework of several services and tools for vulnerability scanning and management.",
+      "url": "http://www.openvas.org/"
+    },
+    {
+      "name": "Acunetix",
+      "description": "A web vulnerability scanner that can detect and manage thousands of web vulnerabilities.",
+      "url": "https://www.acunetix.com/"
+    },
+    {
+      "name": "Nessus",
+      "description": "A vulnerability scanner that uses a client-server model to scan for vulnerabilities.",
+      "url": "https://www.tenable.com/products/nessus"
+    },
+    {
+      "name": "Katana",
+      "description": "A toolkit for automated CTF Solving.",
+      "url": "https://github.com/JohnHammond/katana"
+    }
+  ]

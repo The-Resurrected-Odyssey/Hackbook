@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Wireshark",
+      "description": "A free and open-source packet analyzer used for network troubleshooting, analysis, software and communications protocol development, and education.",
+      "url": "https://www.wireshark.org/"
+    },
+    {
+      "name": "Apackets.com",
+      "description": "An online tool for packet analysis that allows users to capture, analyze, and visualize network traffic in real-time.",
+      "url": "https://apackets.com/"
+    },
+    {
+      "name": "Arkime",
+      "description": "An open-source, large-scale, and high-performance network traffic analysis tool that captures, indexes, and stores network traffic for offline analysis.",
+      "url": "https://arkime.com/"
+    },
+    {
+      "name": "Nmap",
+      "description": "A free and open-source network exploration and security auditing tool that allows users to discover hosts and services on a computer network, thus creating a map of the network.",
+      "url": "https://nmap.org/"
+    },
+    {
+      "name": "Network Miner",
+      "description": "A free and open-source network forensic analysis tool that captures packets and extracts files from network traffic.",
+      "url": "https://www.netresec.com/?page=NetworkMiner"
+    },
+    {
+      "name": "Masscan",
+      "description": "A free and open-source TCP port scanner that can scan the entire Internet in under six minutes.",
+      "url": "https://github.com/robertdavidgraham/masscan"
+    },
+    {
+      "name": "Nipe",
+      "description": "A free and open-source tool for redirecting all Internet traffic from the machine to the Tor network.",
+      "url": "https://github.com/GouveaHeitor/nipe"
+    },
+    {
+      "name": "Monit",
+      "description": "A free and open-source tool for managing and monitoring Unix systems, including network and system services, files, directories, and devices.",
+      "url": "https://mmonit.com/monit/"
+    },
+    {
+      "name": "Zeek",
+      "description": "An open-source network security monitoring tool that captures network traffic and generates logs that can be used for network analysis, troubleshooting, and security investigations.",
+      "url": "https://zeek.org/"
+    },
+    {
+      "name": "Netcat",
+      "description": "A free and open-source networking utility for reading from and writing to network connections using TCP or UDP protocols.",
+      "url": "https://en.wikipedia.org/wiki/Netcat"
+    },
+    {
+      "name": "Aircrack-ng",
+      "description": "A free and open-source network security tool for assessing Wi-Fi network security. It can be used for cracking WEP and WPA keys, sniffing network traffic, and conducting MITM attacks.",
+      "url": "https://www.aircrack-ng.org/"
+    },
+    {
+      "name": "Zmap",
+      "description": "A free and open-source network scanner that can rapidly scan the entire IPv4 address space for open ports and services.",
+      "url": "https://zmap.io/"
+    }
+  ]

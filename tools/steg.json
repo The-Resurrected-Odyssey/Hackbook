@@ -58,5 +58,10 @@
       "name": "Zsteg",
       "description": "Zsteg is a tool for detecting hidden data in PNG and BMP images using various steganography techniques.",
       "url": "https://github.com/zed-0xff/zsteg"
+    },
+    {
+      "name": "Stegextract",
+      "description": "Detect hidden files and text in images",
+      "url": "https://github.com/evyatarmeged/stegextract"
     }
   ]

@@ -99,7 +99,7 @@ table {
   }
   
   .scrollable-table {
-	min-width: auto; /* Set the minimum width for the table */
+	min-width: auto; 
   }
   
   .scrollable-table thead {
@@ -146,10 +146,6 @@ table {
 	font-weight: normal;
   }
   
-  .scrollable-table tbody td {
-	font-weight: normal;
-	color: white; 
-  }
   
   .scrollable-table-container::-webkit-scrollbar {
 	width: 10px;
@@ -180,7 +176,6 @@ table {
 	color: white;
 	text-decoration: none;
   }
-
 
 
   /*Added For Scroll*/
@@ -265,5 +260,11 @@ table {
   .modal-content::-webkit-scrollbar {
 	width: 0px;
 	background: transparent;
+  }
+
+  .scrollable-table td tr:hover {
+	background-color: #e53b44;
+	color: black;
+	transform: scale(1.1);
   }
   

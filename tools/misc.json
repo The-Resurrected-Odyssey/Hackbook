@@ -28,5 +28,10 @@
       "name": "Shodan.io",
       "description": "A search engine for Internet-connected devices.",
       "url": "https://www.shodan.io/"
+    },
+    {
+      "name": "Revshells.com",
+      "description": "Online Reverse Shell Generator.",
+      "url": "https://www.revshells.com/"
     }
   ]

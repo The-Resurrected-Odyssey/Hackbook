@@ -25,7 +25,7 @@
       "url": "https://www.tenable.com/products/nessus"
     },
     {
-      "name": "BeRoot",
+      "name": "Katana",
       "description": "A toolkit for automated CTF Solving.",
       "url": "https://github.com/JohnHammond/katana"
     },

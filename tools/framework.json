@@ -1,8 +1,13 @@
 [
     {
       "name": "Metasploit",
-      "description": "A penetration testing framework that includes many tools and exploits.",
+      "description": "Metasploit is a widely-used framework that provides a range of tools and exploits for penetration testing, including privilege escalation. It allows security professionals to identify vulnerabilities, exploit them, and gain higher privileges on target systems.",
       "url": "https://www.metasploit.com/"
+    },
+    {
+      "name": "PowerSploit",
+      "description": "PowerSploit is a collection of PowerShell scripts that focuses on post-exploitation activities, including privilege escalation. It provides various modules and techniques for escalating privileges in Windows environments.",
+      "url": "https://github.com/PowerShellMafia/PowerSploit"
     },
     {
       "name": "OpenVAS",
@@ -20,9 +25,24 @@
       "url": "https://www.tenable.com/products/nessus"
     },
     {
-      "name": "Katana",
+      "name": "BeRoot",
       "description": "A toolkit for automated CTF Solving.",
       "url": "https://github.com/JohnHammond/katana"
+    },
+    {
+      "name": "BeRoot",
+      "description": "BeRoot is a Python-based privilege escalation tool that aids in finding potential privilege escalation vectors on Unix and Linux systems. It automates the process of searching for common misconfigurations or vulnerable services that could be leveraged for privilege escalation.",
+      "url": "https://github.com/AlessandroZ/BeRoot"
+    },
+    {
+      "name": "Windows Exploit Suggester",
+      "description": "This tool is designed specifically for Windows environments. It analyzes a target system and suggests potential exploits and vulnerabilities that can be used to escalate privileges on the Windows operating system.",
+      "url": "https://github.com/AonCyberLabs/Windows-Exploit-Suggester"
+    },
+    {
+      "name": "Linux Exploit Suggester",
+      "description": "Linux Exploit Suggester scans a Linux system and suggests possible exploits and vulnerabilities that can be utilized for privilege escalation.",
+      "url": "https://github.com/The-Z-Labs/linux-exploit-suggester"
     },
     {
       "name": "Raccoon",

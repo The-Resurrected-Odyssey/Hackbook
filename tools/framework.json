@@ -25,7 +25,7 @@
       "url": "https://www.tenable.com/products/nessus"
     },
     {
-      "name": "BeRoot",
+      "name": "Katana",
       "description": "A toolkit for automated CTF Solving.",
       "url": "https://github.com/JohnHammond/katana"
     },
@@ -48,5 +48,10 @@
       "name": "Raccoon",
       "description": "A high performance offensive security tool for reconnaissance and vulnerability scanning",
       "url": "https://github.com/evyatarmeged/Raccoon"
+    },
+    {
+      "name": "Nexpose",
+      "description": "Nexpose is a vulnerability management solution developed by Rapid7, a leading provider of security solutions. It is designed to help organizations identify and prioritize security risks in their networks and systems.",
+      "url": "https://www.rapid7.com/products/nexpose/"
     }
   ]

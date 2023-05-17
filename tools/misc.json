@@ -33,5 +33,10 @@
       "name": "Revshells.com",
       "description": "Online Reverse Shell Generator.",
       "url": "https://www.revshells.com/"
+    },
+    {
+      "name": "Searchsploit",
+      "description": "Searchsploit is a command-line utility used for searching through the Exploit Database, a collection of exploits and vulnerabilities for a variety of software applications. And it is also included in Metasploit",
+      "url": " https://github.com/offensive-security/exploitdb"
     }
   ]
